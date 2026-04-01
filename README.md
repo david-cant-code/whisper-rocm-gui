@@ -16,12 +16,7 @@ yes, that includes you, who knows I could be a total dick
 
 ## Plans for the Future
 
-- [ ] Polish the GUI or maybe switch to something nicer than `tkinter`
-- [ ] Make the setup smoother for non-technical users
-- [ ] Test in more environments
-- [ ] fix compatability with selinux systems
-- [ ] add in ability to record sound to pass to whisper (push to talk?)
-- [ ] other fun stuff
+Keep the lights on
 
 ---
 
